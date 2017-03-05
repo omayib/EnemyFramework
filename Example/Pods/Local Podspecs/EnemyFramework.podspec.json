@@ -1,0 +1,22 @@
+{
+  "name": "EnemyFramework",
+  "version": "0.1.0",
+  "summary": "A short description of EnemyFramework.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/arief.themil@gmail.com/EnemyFramework",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "arief.themil@gmail.com": "omayib@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/arief.themil@gmail.com/EnemyFramework.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "EnemyFramework/Classes/**/*"
+}

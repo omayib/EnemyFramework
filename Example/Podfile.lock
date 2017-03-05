@@ -1,0 +1,16 @@
+PODS:
+  - EnemyFramework (0.1.0)
+
+DEPENDENCIES:
+  - EnemyFramework (from `../`)
+
+EXTERNAL SOURCES:
+  EnemyFramework:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  EnemyFramework: cfd84586e8325a72ab64faf913bae0301daec0c4
+
+PODFILE CHECKSUM: 6de763b498621d013a595b0d7f04e5be285bdeb4
+
+COCOAPODS: 1.2.0

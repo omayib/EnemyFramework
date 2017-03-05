@@ -21,12 +21,12 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/arief.themil@gmail.com/EnemyFramework'
+  s.homepage         = 'https://github.com/omayib/EnemyFramework'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'arief.themil@gmail.com' => 'omayib@gmail.com' }
-  s.source           = { :git => 'https://github.com/arief.themil@gmail.com/EnemyFramework.git', :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
+  s.source           = { :git => 'https://github.com/omayib/EnemyFramework.git', :tag => s.version.to_s }
+  # s.social_media_url = 'https://twitter.com/@omayib'
 
   s.ios.deployment_target = '8.0'
 

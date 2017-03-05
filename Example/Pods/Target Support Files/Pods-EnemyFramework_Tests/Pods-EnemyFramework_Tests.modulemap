@@ -1,0 +1,6 @@
+framework module Pods_EnemyFramework_Tests {
+  umbrella header "Pods-EnemyFramework_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
