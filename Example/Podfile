@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'EnemyFramework_Example' do
+  pod 'EnemyFramework', :path => '../'
+
+  target 'EnemyFramework_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
